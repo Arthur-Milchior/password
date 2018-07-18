@@ -1,0 +1,5 @@
+generate a password, according to some rule which I can not link right now. 
+
+Takes 4 letters in argument (i.e. twit if you want to generate a password for twitter).
+
+In the folder in which this program is run,  you should have a file pwd_parameter with 7 lines. The first 6 are random words. The 7th is a random string of 4 digits. As in the example below (do not use this example)
